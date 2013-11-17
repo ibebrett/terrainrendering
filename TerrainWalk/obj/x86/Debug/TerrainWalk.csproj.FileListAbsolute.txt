@@ -1,0 +1,9 @@
+C:\work\XNA\TerrainWalk\TerrainWalk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\work\XNA\TerrainWalk\TerrainWalk\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\work\XNA\TerrainWalk\TerrainWalk\obj\x86\Debug\TerrainWalk.exe
+C:\work\XNA\TerrainWalk\TerrainWalk\obj\x86\Debug\TerrainWalk.pdb
+C:\work\XNA\TerrainWalk\TerrainWalk\bin\x86\Debug\Content\effects.xnb
+C:\work\XNA\TerrainWalk\TerrainWalk\bin\x86\Debug\Content\heightmap100.xnb
+C:\work\XNA\TerrainWalk\TerrainWalk\bin\x86\Debug\Content\tex.xnb
+C:\work\XNA\TerrainWalk\TerrainWalk\bin\x86\Debug\TerrainWalk.exe
+C:\work\XNA\TerrainWalk\TerrainWalk\bin\x86\Debug\TerrainWalk.pdb

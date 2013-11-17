@@ -1,0 +1,2 @@
+C:\work\XNA\TerrainWalk\TerrainWalk\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\work\XNA\TerrainWalk\TerrainWalk\Content\obj\x86\Debug\ResolveAssemblyReference.cache

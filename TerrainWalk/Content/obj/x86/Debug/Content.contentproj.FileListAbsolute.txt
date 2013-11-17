@@ -1,0 +1,1 @@
+C:\work\XNA\TerrainWalk\TerrainWalk\Content\obj\x86\Debug\ResolveAssemblyReference.cache

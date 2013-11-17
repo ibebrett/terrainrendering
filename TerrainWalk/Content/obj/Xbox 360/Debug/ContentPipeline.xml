@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>effects.fx</Source>
+      <Name>effects</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\work\XNA\TerrainWalk\TerrainWalk\bin\Xbox 360\Debug\Content\effects.xnb</Output>
+      <Time>2008-08-27T16:50:14.53125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>heightmap100.bmp</Source>
+      <Name>heightmap100</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\work\XNA\TerrainWalk\TerrainWalk\bin\Xbox 360\Debug\Content\heightmap100.xnb</Output>
+      <Time>2008-08-24T18:58:53.03125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>tex.bmp</Source>
+      <Name>tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\work\XNA\TerrainWalk\TerrainWalk\bin\Xbox 360\Debug\Content\tex.xnb</Output>
+      <Time>2008-08-27T16:54:48.046875-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <RootDirectory>C:\work\XNA\TerrainWalk\TerrainWalk\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\work\XNA\TerrainWalk\TerrainWalk\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\work\XNA\TerrainWalk\TerrainWalk\Content\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\work\XNA\TerrainWalk\TerrainWalk\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2007-11-28T13:08:00-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2007-11-28T13:08:42-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2007-11-28T13:08:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2007-11-28T13:07:44-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\2.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-02-26T09:46:12.234375-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

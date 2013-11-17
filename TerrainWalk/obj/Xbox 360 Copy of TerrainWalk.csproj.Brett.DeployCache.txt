@@ -1,0 +1,12 @@
+7e798d4705ff42969eaca52116796978
+Brett
+C:\work\XNA\TerrainWalk\TerrainWalk\bin\Xbox 360\Debug\
+128645021040000000
+C:\work\XNA\TerrainWalk\TerrainWalk\bin\Xbox 360\Debug\TerrainWalk.exe
+2008-08-29T21:38:24.1875000Z
+C:\work\XNA\TerrainWalk\TerrainWalk\bin\Xbox 360\Debug\Content\effects.xnb
+2008-08-29T20:48:29.7500000Z
+C:\work\XNA\TerrainWalk\TerrainWalk\bin\Xbox 360\Debug\Content\heightmap100.xnb
+2008-08-29T20:48:31.2343750Z
+C:\work\XNA\TerrainWalk\TerrainWalk\bin\Xbox 360\Debug\Content\tex.xnb
+2008-08-29T20:48:31.4218750Z
